@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#f165a69e</color>
+    <color name="my_color_dark">#509790</color>
+    <color name="my_color">#65a69e</color>
+    <color name="app_name_color">#f5000000</color>
+    <color name="my_txt_color">#b1000000</color>
+</resources>

@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">S_Shop</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="vacheron_constantin">
+        <item>https://i.ebayimg.com/images/g/ns8AAOSwHt5bTGK2/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/P3wAAOSwJGlbTGK1/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/msMAAOSwX0xbTGKz/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/V4EAAOSw3bNbTGK4/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/vEIAAOSwN6NbTGK2/s-l1600.jpg</item>
+    </string-array>
+
+    <string-array name="patek_phillipe">
+        <item>https://i.ebayimg.com/images/g/0YQAAOSw05tacwFJ/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/gvUAAOSwsZJacwFQ/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/kQ8AAOSwLgNacwFV/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/21UAAOSw4QdacwFa/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/vp8AAOSwZoZacwFh/s-l1600.jpg</item>
+    </string-array>
+
+    <string-array name="frank_muller">
+        <item>https://i.ebayimg.com/images/g/gfIAAOSwYDZaaQj1/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/nOEAAOSwdTJaaQj6/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/G-wAAOSwYNxaaQj-/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/WhsAAOSwJ71aaQkN/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/0NcAAOSwp7FaaQkk/s-l1600.jpg</item>
+    </string-array>
+
+    <string-array name="casio_mens">
+        <item>https://i.ebayimg.com/images/g/HDQAAOSwA3dYOv5c/s-l500.jpg</item>
+        <item>https://i.ebayimg.com/images/g/eQQAAOSwcUBYOv5c/s-l500.jpg</item>
+        <item>https://i.ebayimg.com/images/g/RsgAAOSw-0xYOv5c/s-l500.jpg</item>
+        <item>https://i.ebayimg.com/images/g/2u8AAOSwiDFYOv5c/s-l500.jpg</item>
+        <item>https://i.ebayimg.com/images/g/3TUAAOSwiONYOv5c/s-l500.jpg</item>
+    </string-array>
+
+    <string-array name="omega">
+        <item>https://i.ebayimg.com/images/g/A4kAAOSwbJla69pv/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/z3YAAOSwnPla69p1/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/ni4AAOSwAata69p6/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/-58AAOSwl4Va69p-/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/K~sAAOSw75xa69qE/s-l1600.jpg</item>
+    </string-array>
+
+    <string-array name="hamilton">
+        <item>https://i.ebayimg.com/images/g/F-cAAOSwySlaIeeu/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/QiYAAOSwmphaIeex/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/yiQAAOSwAHtaIeez/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/NooAAOSwEOpaIee1/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/czcAAOSw8DJaIee3/s-l1600.jpg</item>
+    </string-array>
+
+    <string-array name="uwood">
+        <item>https://i.ebayimg.com/images/g/ThkAAOSwjONZbXzP/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/3AIAAOSwFBRZbXzV/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/RaQAAOSw-9RZbXzZ/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/eaUAAOSwX3NZbXzf/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/ThkAAOSwjONZbXzP/s-l1600.jpg</item>
+    </string-array>
+
+    <string-array name="audemars">
+        <item>https://i.ebayimg.com/images/g/aOkAAOSwqj5bVinI/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/5ikAAOSwwI5bVinH/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/jiIAAOSwUqVbVinH/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/4LwAAOSw98FbVinH/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/f-sAAOSwa81bVinH/s-l1600.jpg</item>
+    </string-array>
+
+    <string-array name="cartier">
+        <item>https://i.ebayimg.com/images/g/wlUAAOSwrklVG8oo/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/ae4AAOSwstxVG8oa/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/9SwAAOSwBLlVG8o2/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/644AAOSwv0tVG8on/s-l1600.jpg</item>
+        <item>https://i.ebayimg.com/images/g/cx0AAOSw7aBVG8oz/s-l1600.jpg</item>
+    </string-array>
+
+    <string name="my_app_name">S-Watch</string>
+    <string name="my_txt">The game isn\'t over till the clock says zero.</string>
+    <string name="pr_name">Product Name</string>
+    <string name="price_txt">Price:</string>
+    <string name="pr_price">price $</string>
+    <string name="rating_txt">3.0</string>
+    <string name="all_products">All products</string>
+    <string name="categories">Categories</string>
+    <string name="mechanical">Mechanical</string>
+    <string name="electric">Electric</string>
+    <string name="quartz">Quartz</string>
+    <string name="communicate">Communicate</string>
+    <string name="whish_list">Whish list</string>
+    <string name="want_to_buy">Want to buy</string>
+    <string name="search">Search</string>
+
+    <string name="vacheron_video">rtsp://r4---sn-4g5ednsz.googlevideo.com/Cj0LENy73wIaNAknHDUdJaCkARMYDSANFC3y3FpbMOCoAUIASARg8r357fPHgJ1bigELRlBrSVRqbFlVbjQM/C10912D9B7924E531C15B9D94DFBCCC97EA7EE3B.4FEEA3207F363E41B7E6AAA306325316964C88C7/yt6/1/video.3gp</string>
+    <string name="patek_video">rtsp://r2---sn-4g5ednsr.googlevideo.com/Cj0LENy73wIaNAnN3QNTFONjSBMYDSANFC1yBltbMOCoAUIASARg8r357fPHgJ1bigELRlBrSVRqbFlVbjQM/7018A48DE6039E6CBE2346EA71B54E4E6F8CF9A8.2EFE3DDA71CB41C6F12A4A49A66C0C41E86190E9/yt6/1/video.3gp</string>
+    <string name="muller_video">rtsp://r5---sn-4g5e6nsy.googlevideo.com/Cj0LENy73wIaNAl1BOSJLAjM0RMYDSANFC3L-1pbMOCoAUIASARg8r357fPHgJ1bigELRlBrSVRqbFlVbjQM/50D4158072525E7A950FABE45E05491435CD86FE.31B2135B25EEB51C5CF03E23BAD6BD80EE3E90DC/yt6/1/video.3gp</string>
+    <string name="casio_video">rtsp://r1---sn-4g5ednsz.googlevideo.com/Cj0LENy73wIaNAnVIhJbr_YLpxMYDSANFC0Z_FpbMOCoAUIASARg8r357fPHgJ1bigELRlBrSVRqbFlVbjQM/5A51119D28A58D2180608CD3499E02002B2C566A.16D57A0C075290973FE472B5F1C9650CAF352E/yt6/1/video.3gp</string>
+    <string name="omega_video">rtsp://r3---sn-4g5edned.googlevideo.com/Cj0LENy73wIaNAkUYLN3B67SMxMYDSANFC2g_FpbMOCoAUIASARg8r357fPHgJ1bigELRlBrSVRqbFlVbjQM/30383C390B124843C9E9C871FFE5C105F25A6FD9.D31D998C9E13DE9CC6F03F2B7D58F305C108EA6B/yt6/1/video.3gp</string>
+    <string name="hamilton_video">rtsp://r5---sn-4g5e6nld.googlevideo.com/Cj0LENy73wIaNAlQhMx3rKEJ3BMYDSANFC1w_VpbMOCoAUIASARg8r357fPHgJ1bigELRlBrSVRqbFlVbjQM/7C42E616BD742ADCAEE33B6178D7DB9E04443210.29BCED313D3162AEB76D5CC1AAC44F8D47381ECF/yt6/1/video.3gp</string>
+    <string name="uwood_video">rtsp://r5---sn-4g5ednly.googlevideo.com/Cj0LENy73wIaNAkv1JMMNfcdABMYDSANFC1x_lpbMOCoAUIASARg8r357fPHgJ1bigELRlBrSVRqbFlVbjQM/B044DE8A2584A59358628330602CA6C021642D48.114F7DD11D23E3C2B9FFA22F0ACB3BDA2CB2F4/yt6/1/video.3gp</string>
+    <string name="audemars_video">rtsp://r5---sn-4g5e6nzs.googlevideo.com/Cj0LENy73wIaNAko82CLHLV3vhMYDSANFC2j_1pbMOCoAUIASARg8r357fPHgJ1bigELRlBrSVRqbFlVbjQM/267246C3F4917EB2185E94DF268DA3D344777CF0.3C49F59DFB12C084657B2E65D6CD05D85F8B5339/yt6/1/video.3gp</string>
+    <string name="cartier_video">rtsp://r5---sn-4g5ednls.googlevideo.com/Cj0LENy73wIaNAliIvDIRHD4BBMYDSANFC0dAFtbMOCoAUIASARg8r357fPHgJ1bigELRlBrSVRqbFlVbjQM/D6280A7E364B83B5F4345434DBAF7A3BE368B55E.10D61F5699D8CB4D4821519D220077DDD810D6C1/yt6/1/video.3gp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="large_text">
+        "S-Watch\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+</resources>

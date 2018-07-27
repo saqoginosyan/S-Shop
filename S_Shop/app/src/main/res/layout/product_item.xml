@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/card_margin">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/pr_lay_height">
+
+        <ImageView
+            android:id="@+id/product_img"
+            android:layout_width="@dimen/pr_img_size"
+            android:layout_height="@dimen/pr_img_size"
+            android:scaleType="centerCrop"
+            android:src="@drawable/placeholder" />
+
+        <TextView
+            android:id="@+id/product_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/pr_name_margin"
+            android:layout_toEndOf="@+id/product_img"
+            android:layout_toRightOf="@+id/product_img"
+            android:fontFamily="monospace"
+            android:text="@string/pr_name"
+            android:textSize="@dimen/pr_name_size"
+            android:textStyle="bold"
+            tools:targetApi="jelly_bean" />
+
+        <TextView
+            android:id="@+id/price_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/product_title"
+            android:layout_margin="10dp"
+            android:layout_toEndOf="@+id/product_img"
+            android:layout_toRightOf="@+id/product_img"
+            android:text="@string/price_txt"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/product_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/price_txt"
+            android:layout_below="@+id/product_title"
+            android:layout_toEndOf="@+id/price_txt"
+            android:layout_toRightOf="@+id/price_txt"
+            android:fontFamily="monospace"
+            android:text="@string/pr_price"
+            android:textSize="@dimen/price_size"
+            tools:targetApi="jelly_bean" />
+
+        <TextView
+            android:id="@+id/rating_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/product_rating"
+            android:layout_below="@+id/product_price"
+            android:layout_toEndOf="@+id/product_rating"
+            android:layout_toRightOf="@+id/product_rating"
+            android:text="@string/rating_txt"
+            android:textSize="@dimen/rating_txt_size"
+            android:textStyle="italic" />
+
+        <RatingBar
+            android:id="@+id/product_rating"
+            style="@style/Widget.AppCompat.RatingBar.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/price_txt"
+            android:layout_margin="10dp"
+            android:layout_toEndOf="@id/product_img"
+            android:layout_toRightOf="@id/product_img"
+            android:progressTint="@color/my_color_dark" />
+
+        <ImageButton
+            android:id="@+id/card_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_add_shopping_cart_black_24dp" />
+
+        <ImageButton
+            android:id="@+id/fav_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_favorite_black_24dp" />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

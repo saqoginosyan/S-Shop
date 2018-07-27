@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/all_products"
+            android:icon="@drawable/ic_watch_black_24dp"
+            android:title="@string/all_products" />
+    </group>
+
+    <item android:title="@string/categories">
+        <menu>
+            <item
+                android:id="@+id/mechanical"
+                android:icon="@drawable/mechanic"
+                android:title="@string/mechanical" />
+            <item
+                android:id="@+id/electric"
+                android:icon="@drawable/electric"
+                android:title="@string/electric" />
+            <item
+                android:id="@+id/quartz"
+                android:icon="@drawable/crystal"
+                android:title="@string/quartz" />
+        </menu>
+    </item>
+
+    <item android:title="@string/communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_favorite"
+                android:icon="@drawable/ic_favorite_red"
+                android:title="@string/whish_list" />
+            <item
+                android:id="@+id/nav_cart"
+                android:icon="@drawable/ic_shopping_cart_black_24dp"
+                android:title="@string/want_to_buy" />
+        </menu>
+    </item>
+
+</menu>
